@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dor-yanay-52529524b/)](https://www.linkedin.com/in/dor-yanay-52529524b/)
 [![Gmail Badge](https://img.shields.io/badge/-dor3518@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dor3518@gmail.com)](mailto:dor3518@gmail.com)
   
-<h1> My Knowlege:</h1>
+<h1> My Knowledge:</h1>
 <h4 align="left">Programming Languages I`m proficient in:</h3>
 <p align="left"> 
 <span>
