@@ -17,7 +17,3 @@
 </span>
 
 </p>
-<h1>📈 Github Stats:</h1>
-<img align="left" alt="DorYanay Github Status" src="https://github-readme-stats.vercel.app/api?username=DorYanay&show_icons=true&theme=onedark">
-
-<img align="left" alt="DorYanay Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorYanay&layout=compact&theme=onedark">
