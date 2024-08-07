@@ -4,7 +4,9 @@
 <h3> 📫 Contact Me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dor-yanay-52529524b/)](https://www.linkedin.com/in/dor-yanay-52529524b/)
-
+  <a href="https://instagram.com/dor_yanay1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 ## Languages and Tools
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
