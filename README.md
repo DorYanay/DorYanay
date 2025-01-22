@@ -44,6 +44,15 @@ Below are some of the key projects I have worked on:
 <br />
 <hr />
 
+### :muscle: Phishing-Email-Classification  [🔗](https://github.com/DorYanay/Phishing-Email-Classification-Using-BERT) 
+> Managment sport fields mobile platform
+SoluTrain is a mobile application designed to bridge the gap between sports trainers and trainees. The app serves as a platform for creating and managing sports-related groups and organizing training sessions. Key features include:
+Trainer-Trainee Matching by areas: Easily connect sports enthusiasts with qualified trainers.
+Group Creation: Trainers can create and manage sports groups for various activities.
+Session Scheduling: Organize and schedule training sessions and sports meets.
+
+<hr />
+
 ### :muscle: SoluTrain-Mobile-APP  [🔗](https://github.com/DorYanay/SoluTrain-Mobile-APP) 
 > Managment sport fields mobile platform
 SoluTrain is a mobile application designed to bridge the gap between sports trainers and trainees. The app serves as a platform for creating and managing sports-related groups and organizing training sessions. Key features include:
