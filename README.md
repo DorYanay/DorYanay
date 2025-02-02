@@ -41,6 +41,10 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
 </a>
 </p>
+    
+## 🎖️ Certifications
+
+[![AWS Academy Graduate](https://github.com/DorYanay/DorYanay/blob/main/Certifications/aws-academy-graduate-aws-academy-cloud-foundations.png)](https://www.credly.com/badges/971d84a1-b85e-4236-b420-96f49e626691/public_url)
 
 ## 💼 Repositories:
 Below are some of the key projects I have worked on:
