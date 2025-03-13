@@ -69,7 +69,7 @@ Session Scheduling: Organize and schedule training sessions and sports meets.
 
 <hr />
 
-###  Object-Oriented Programming & Languages
+###  Languages and Object Oriented Programming in C++, Java, Python
 
 - **[C](https://github.com/DorYanay/C-Programming)**
   - This course provides fundamental tools for structured programming in C. Topics covered include basic syntax, control statements, functions, arrays (sorting and searching), strings, pointers, dynamic memory allocation, and recursion. 
