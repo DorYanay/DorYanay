@@ -1,5 +1,5 @@
 <h1 align="center">Dor Yanay</h1>
-<h3 align="center">BS.c Computer Science and Mathematics</h3>
+<h3 align="center">MSc Student Computer Science - AI and Data Science | BS.c Computer Science and Mathematics</h3>
 
 <h3> 📫 Contact Me:</h3>
 
